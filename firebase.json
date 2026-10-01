@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "spendwise-ai-prachi",
+          "appId": "1:451701162940:android:7dd9a6d2ebdb2d050ba1b9",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "spendwise-ai-prachi",
+          "configurations": {
+            "android": "1:451701162940:android:7dd9a6d2ebdb2d050ba1b9",
+            "web": "1:451701162940:web:a353ef71e1f083860ba1b9"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451701162940",
+    "project_id": "spendwise-ai-prachi",
+    "storage_bucket": "spendwise-ai-prachi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451701162940:android:7dd9a6d2ebdb2d050ba1b9",
+        "android_client_info": {
+          "package_name": "com.example.spendwise_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2wCoqc6g2mO_3HYFcqvXBVbpanbJRtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
